@@ -52,9 +52,9 @@ Mi objetivo principal es combinar arte, diseño, música y tecnología para crea
 
 ## Planned Obsolescense
 
-[Mi LinkedIn](https://justtunguska.itch.io/planned-obsolescense)
+[Mi Link](https://justtunguska.itch.io/planned-obsolescense)
 
-**Área:** UI / Arte / Videojuegos
+**Área:** UI / Texturizado / Videojuegos
 
 > Descripción del proyecto.
 "2054, el año en que fui creado. Hoy, el día en que nací."
@@ -69,45 +69,62 @@ texturizado de modelos, UI completa, música de menú voces.
 
 ### Imagen
 
-<!-- Cuando tengas una imagen, reemplazá la siguiente línea -->
-
 <img width="1920" height="1080" alt="Portada_chef_juakin" src="https://github.com/user-attachments/assets/df2dcf12-a080-4f17-8056-80c1b2bd79d3" />
+
+<img width="1024" height="1024" alt="Brazo_2" src="https://github.com/user-attachments/assets/2589ccda-3e84-44d9-a67b-c363088a3d8d" />
+
+<img width="1920" height="1080" alt="Menu_001" src="https://github.com/user-attachments/assets/22da966d-237d-415c-ab7b-c79ba08b552b" />
 
 ---
 
-## 🎨 Proyecto 02
+# 🎨 Proyecto 02
 
-**Área:** Arte 2D
+## Mytho cafe
+
+[Mi Link](https://matiariellopez.itch.io/mytho-cafe)
+
+**Área:** Arte 2D / Musica / 
 
 > Descripción del proyecto y del proceso creativo.
+Welcome to Mytho Café! A hidden nook in the city's shadows where the paranormal finds a place to rest... and a good cup of coffee. Take charge of the most peculiar establishment on the earthly plane and manage a unique staff made up of cryptids.
 
 **Mi participación:**
 Descripción del trabajo realizado.
+la idea principal, el arte, la musica y en la parte del bestiario una imagen  
 
 **Herramientas:**
-`[Programa]` · `[Programa]`
+`[aseprite]` · `[riper]`. `[Affinity]`
 
-### Preview
+### imagen
 
-![Proyecto 02](images/proyecto2.jpg)
+<img width="1920" height="1080" alt="oga_3" src="https://github.com/user-attachments/assets/278ee27c-a16f-467c-a1c0-351c3145ad8c" />
+
+<img width="164" height="258" alt="Charo" src="https://github.com/user-attachments/assets/4850ad15-6593-4d3f-8da9-4bd3a74a1611" />
 
 ---
 
-## 🧊 Proyecto 03
+# 🧊 Proyecto 03
 
-**Área:** 3D / Texturizado
+[Mi Link](https://justtunguska.itch.io/liquid-entropy-proto)
+
+##Entropía liquida
+
+**Área:** 2D / UI
 
 > Descripción del proyecto.
+Sos un científico que para que su experimento no sea utilizado para el mal se de Su experimento Y su cuerpo Cambia a diman la materia Agua Gas Y hielo.
 
 **Mi participación:**
-Descripción de lo realizado y del proceso.
+Dibuje Objetos Para el mapa, a su vez Un poco de animación Que no se logró implementar Algunas y La computadora del menú  
 
 **Herramientas:**
-`Blender` · `[Programa]`
+ `[aseprite]`
 
-### Preview
+###  imagen
 
-![Proyecto 03](images/proyecto3.jpg)
+<img width="160" height="160" alt="Hielo_Sprite" src="https://github.com/user-attachments/assets/da57017b-a267-4e8f-9988-a4dfa9087401" />
+
+<img width="160" height="160" alt="Vapor_Sprite" src="https://github.com/user-attachments/assets/21e4c68e-bea1-4442-81f3-68606bc31c54" />
 
 ---
 
