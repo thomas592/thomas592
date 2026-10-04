@@ -136,9 +136,9 @@ También trabajo en la creación y experimentación de música para proyectos di
 
 ### 🎧 Mis trabajos
 
-* 🎵 **Tema 01** — [Escuchar / Ver proyecto]([MenuMaid.wav](https://github.com/user-attachments/files/33036579/MenuMaid.wav))
-* 🎵 **Tema 02** — [Escuchar / Ver proyecto](#)
-* 🎵 **Tema 03** — [Escuchar / Ver proyecto](#)
+* 🎵 **Tema 01** — [Escuchar / Ver proyecto]()
+* 🎵 **Tema 02** — [Escuchar / Ver proyecto]()
+* 🎵 **Tema 03** — [Escuchar / Ver proyecto]()
 
 > Los enlaces serán reemplazados por mis proyectos y trabajos musicales.
 
