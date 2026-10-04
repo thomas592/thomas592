@@ -195,7 +195,7 @@ Si querés conocer más sobre mis trabajos, proyectos o colaborar conmigo, podé
 
 ### 📧 Email
 
-[![Gmail](Gmail)](meliasmonti908@gmail.com)
+[![Gmail](https://mail.google.com/mail/u/1/#inbox)](meliasmonti908@gmail.com)
 
 ---
 
