@@ -128,7 +128,6 @@ Dibuje Objetos Para el mapa, a su vez Un poco de animación Que no se logró imp
 
 ---
 
-
 ---
 
 # 🎵 MÚSICA
@@ -137,7 +136,7 @@ También trabajo en la creación y experimentación de música para proyectos di
 
 ### 🎧 Mis trabajos
 
-* 🎵 **Tema 01** — [Escuchar / Ver proyecto](#)
+* 🎵 **Tema 01** — [Escuchar / Ver proyecto]([MenuMaid.wav](https://github.com/user-attachments/files/33036579/MenuMaid.wav))
 * 🎵 **Tema 02** — [Escuchar / Ver proyecto](#)
 * 🎵 **Tema 03** — [Escuchar / Ver proyecto](#)
 
@@ -149,7 +148,7 @@ También trabajo en la creación y experimentación de música para proyectos di
 
 Algunas de las herramientas y programas con los que trabajo o estoy aprendiendo:
 
-`Blender` · `Krita` · `Photoshop` · `GitHub` · `ZBrush`
+`Blender` · `Krita` · `aseprite` · `GitHub` · `Affinity`
 
 Y otras herramientas relacionadas con:
 
@@ -197,7 +196,8 @@ Si querés conocer más sobre mis trabajos, proyectos o colaborar conmigo, podé
 
 ### 📧 Email
 
-**[eliasmonti908@gmail.com]**
+[Gmai](eliasmonti908@gmail.com)
+**eliasmonti908@gmail.com**
 
 ---
 
