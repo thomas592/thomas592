@@ -183,7 +183,7 @@ Si querés conocer más sobre mis trabajos, proyectos o colaborar conmigo, podé
 
 ### 📧 Email
 
-**[https://mail.google.com/mail/u/1/#inbox]**
+**[eliasmonti908@gmail.com]**
 
 ---
 
