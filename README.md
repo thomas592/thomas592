@@ -171,7 +171,7 @@ Si querés conocer más sobre mis trabajos, proyectos o colaborar conmigo, podé
 
 ### 💼 LinkedIn
 
-[Mi LinkedIn][(https://www.linkedin.com/in/thomas-elias-monti-a56a89401/?isSelfProfile=true)]
+[Mi LinkedIn](https://www.linkedin.com/in/thomas-elias-monti-a56a89401/?isSelfProfile=true)
 
 ### 💻 GitHub
 
@@ -183,7 +183,7 @@ Si querés conocer más sobre mis trabajos, proyectos o colaborar conmigo, podé
 
 ### 📧 Email
 
-**[TU CORREO ELECTRÓNICO]**
+**[https://mail.google.com/mail/u/1/#inbox]**
 
 ---
 
