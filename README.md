@@ -171,7 +171,7 @@ Si querés conocer más sobre mis trabajos, proyectos o colaborar conmigo, podé
 
 ### 💼 LinkedIn
 
-[Mi LinkedIn](https://www.linkedin.com/)
+[Mi LinkedIn][(https://www.linkedin.com/in/thomas-elias-monti-a56a89401/?isSelfProfile=true)]
 
 ### 💻 GitHub
 
@@ -179,7 +179,7 @@ Si querés conocer más sobre mis trabajos, proyectos o colaborar conmigo, podé
 
 ### 🎮 Juegos / Proyectos
 
-[Mi perfil de juegos](#)
+[Mi perfil de juegos](https://thomas-elias.itch.io)
 
 ### 📧 Email
 
