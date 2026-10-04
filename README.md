@@ -204,10 +204,7 @@ Si querés conocer más sobre mis trabajos, proyectos o colaborar conmigo, podé
 **GAME DEVELOPMENT · UI · 2D ART · 3D TEXTURING · MUSIC**
 
 > *Creando mundos, interfaces y experiencias.*
-
+<img width="1920" height="1080" alt="Muerte" src="https://github.com/user-attachments/assets/4e2b2d6b-3c57-4fdb-86e4-2a19d8cd12fd" />
 ---
 
 ### ⭐ Gracias por visitar mi perfil
-
-<img width="1920" height="1080" alt="Muerte" src="https://github.com/user-attachments/assets/4e2b2d6b-3c57-4fdb-86e4-2a19d8cd12fd" />
-
