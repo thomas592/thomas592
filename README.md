@@ -51,7 +51,8 @@ Mi objetivo principal es combinar arte, diseño, música y tecnología para crea
 # 🎮  PROYECTOS
 
 ## Planned Obsolescense
-[](https://justtunguska.itch.io/planned-obsolescense)
+![Proyecto 01](https://justtunguska.itch.io/planned-obsolescense)
+<img width="1920" height="1080" alt="Portada_chef_juakin" src="https://github.com/user-attachments/assets/df2dcf12-a080-4f17-8056-80c1b2bd79d3" />
 
 **Área:** UI / Arte / Videojuegos
 
@@ -110,14 +111,6 @@ Descripción de lo realizado y del proceso.
 
 ---
 
-# 🖼️ GALERÍA
-
-Una selección de trabajos realizados durante mi formación.
-
-| Trabajo                           | Trabajo                           | Trabajo                           |
-| --------------------------------- | --------------------------------- | --------------------------------- |
-| ![Trabajo 1](images/galeria1.jpg) | ![Trabajo 2](images/galeria2.jpg) | ![Trabajo 3](images/galeria3.jpg) |
-| ![Trabajo 4](images/galeria4.jpg) | ![Trabajo 5](images/galeria5.jpg) | ![Trabajo 6](images/galeria6.jpg) |
 
 ---
 
