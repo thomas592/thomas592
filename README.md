@@ -1,16 +1,198 @@
-## Hi there 👋
+# 🌹 BLACK ROSE
 
-<!--
-**thomas592/thomas592** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### THOMÁS ELÍAS MONTI
 
-Here are some ideas to get you started:
+**Futuro desarrollador de videojuegos · UI · Arte 2D · Texturizado 3D · Música**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👋 Sobre mí
+
+Hola, soy **Thomás Elías Monti**, conocido artísticamente como **Black Rose**.
+
+Actualmente me estoy formando como **desarrollador de videojuegos**, explorando diferentes áreas relacionadas con el arte digital y la creación de experiencias interactivas.
+
+Mi principal interés está en el **diseño de interfaces (UI), el arte 2D y la creación de recursos visuales para videojuegos**.
+
+También estoy desarrollando conocimientos en **texturizado 3D, modelado 3D y creación de música**, buscando combinar diferentes disciplinas dentro de mis proyectos.
+
+Mi objetivo es continuar aprendiendo, experimentar con nuevas herramientas y participar en proyectos donde pueda aportar tanto desde el lado artístico como creativo.
+
+---
+
+# 🎮 ÁREAS DE INTERÉS
+
+### 🖥️ UI / DISEÑO DE INTERFACES
+
+Diseño de interfaces, menús, HUD, botones y diferentes elementos visuales para videojuegos.
+
+### 🎨 ARTE 2D
+
+Creación de recursos visuales, ilustraciones, conceptos y elementos gráficos para proyectos digitales.
+
+### 🧊 TEXTURIZADO 3D
+
+Experimentación con creación, edición y aplicación de texturas y materiales para objetos y assets 3D.
+
+### 🔷 3D
+
+Actualmente estoy desarrollando mis conocimientos en modelado y creación de objetos tridimensionales.
+
+### 🎵 MÚSICA
+
+Creación y experimentación musical para proyectos audiovisuales y videojuegos.
+
+### 🎮 DESARROLLO DE VIDEOJUEGOS
+
+Mi objetivo principal es combinar arte, diseño, música y tecnología para crear experiencias interactivas.
+
+---
+
+# 🚀 PROYECTOS
+
+## 🎮 Proyecto 01
+
+**Área:** UI / Arte / Videojuegos
+
+> Descripción del proyecto.
+
+**Mi participación:**
+Descripción de las tareas realizadas dentro del proyecto.
+
+**Herramientas:**
+`[Programa]` · `[Programa]` · `[Programa]`
+
+### Preview
+
+<!-- Cuando tengas una imagen, reemplazá la siguiente línea -->
+
+![Proyecto 01](images/proyecto1.jpg)
+
+---
+
+## 🎨 Proyecto 02
+
+**Área:** Arte 2D
+
+> Descripción del proyecto y del proceso creativo.
+
+**Mi participación:**
+Descripción del trabajo realizado.
+
+**Herramientas:**
+`[Programa]` · `[Programa]`
+
+### Preview
+
+![Proyecto 02](images/proyecto2.jpg)
+
+---
+
+## 🧊 Proyecto 03
+
+**Área:** 3D / Texturizado
+
+> Descripción del proyecto.
+
+**Mi participación:**
+Descripción de lo realizado y del proceso.
+
+**Herramientas:**
+`Blender` · `[Programa]`
+
+### Preview
+
+![Proyecto 03](images/proyecto3.jpg)
+
+---
+
+# 🖼️ GALERÍA
+
+Una selección de trabajos realizados durante mi formación.
+
+| Trabajo                           | Trabajo                           | Trabajo                           |
+| --------------------------------- | --------------------------------- | --------------------------------- |
+| ![Trabajo 1](images/galeria1.jpg) | ![Trabajo 2](images/galeria2.jpg) | ![Trabajo 3](images/galeria3.jpg) |
+| ![Trabajo 4](images/galeria4.jpg) | ![Trabajo 5](images/galeria5.jpg) | ![Trabajo 6](images/galeria6.jpg) |
+
+---
+
+# 🎵 MÚSICA
+
+También trabajo en la creación y experimentación de música para proyectos digitales y videojuegos.
+
+### 🎧 Mis trabajos
+
+* 🎵 **Tema 01** — [Escuchar / Ver proyecto](#)
+* 🎵 **Tema 02** — [Escuchar / Ver proyecto](#)
+* 🎵 **Tema 03** — [Escuchar / Ver proyecto](#)
+
+> Los enlaces serán reemplazados por mis proyectos y trabajos musicales.
+
+---
+
+# 🛠️ HERRAMIENTAS
+
+Algunas de las herramientas y programas con los que trabajo o estoy aprendiendo:
+
+`Blender` · `Krita` · `Photoshop` · `GitHub` · `ZBrush`
+
+Y otras herramientas relacionadas con:
+
+* 🎨 Arte digital
+* 🖥️ Diseño de interfaces
+* 🧊 Modelado y texturizado 3D
+* 🎵 Producción musical
+* 🎮 Desarrollo de videojuegos
+
+---
+
+# 📚 FORMACIÓN
+
+Actualmente me encuentro en proceso de formación y aprendizaje dentro del área de:
+
+**Desarrollo de videojuegos**
+
+Con especial interés en:
+
+* UI / UX
+* Arte 2D
+* Modelado y texturizado 3D
+* Escultura digital
+* Diseño visual
+* Música para videojuegos
+* Desarrollo de experiencias interactivas
+
+---
+
+# 📫 CONTACTO
+
+Si querés conocer más sobre mis trabajos, proyectos o colaborar conmigo, podés encontrarme en:
+
+### 💼 LinkedIn
+
+[Mi LinkedIn](https://www.linkedin.com/)
+
+### 💻 GitHub
+
+[Mi GitHub](https://github.com/thomas592)
+
+### 🎮 Juegos / Proyectos
+
+[Mi perfil de juegos](#)
+
+### 📧 Email
+
+**[TU CORREO ELECTRÓNICO]**
+
+---
+
+# 🌹 BLACK ROSE
+
+**GAME DEVELOPMENT · UI · 2D ART · 3D TEXTURING · MUSIC**
+
+> *Creando mundos, interfaces y experiencias.*
+
+---
+
+### ⭐ Gracias por visitar mi perfil
