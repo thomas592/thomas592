@@ -48,25 +48,29 @@ Mi objetivo principal es combinar arte, diseño, música y tecnología para crea
 
 ---
 
-# 🚀 PROYECTOS
+# 🎮  PROYECTOS
 
-## 🎮 Proyecto 01
+## Planned Obsolescense
+[](https://justtunguska.itch.io/planned-obsolescense)
 
 **Área:** UI / Arte / Videojuegos
 
 > Descripción del proyecto.
+"2054, el año en que fui creado. Hoy, el día en que nací."
+La obsolescencia programada es un videojuego rápido desarrollado por un pequeño equipo de estudiantes universitarios llamado INFINITY VIOLET.
+Este juego fue creado para el CYBRPUNK JAM 016.
 
 **Mi participación:**
-Descripción de las tareas realizadas dentro del proyecto.
+texturizado de modelos, UI completa, música de menú voces. 
 
 **Herramientas:**
-`[Programa]` · `[Programa]` · `[Programa]`
+`[Affinity]` · `[Blender]` · 
 
 ### Preview
 
 <!-- Cuando tengas una imagen, reemplazá la siguiente línea -->
 
-![Proyecto 01](images/proyecto1.jpg)
+![Proyecto 01](Portada_chef_juakin)
 
 ---
 
