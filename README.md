@@ -52,7 +52,7 @@ Mi objetivo principal es combinar arte, diseño, música y tecnología para crea
 
 ## Planned Obsolescense
 
-[Mi LinkedIn]([https://www.linkedin.com/in/thomas-elias-monti-a56a89401/?isSelfProfile=true](https://justtunguska.itch.io/planned-obsolescense))
+[Mi LinkedIn](https://justtunguska.itch.io/planned-obsolescense)
 
 **Área:** UI / Arte / Videojuegos
 
@@ -67,7 +67,7 @@ texturizado de modelos, UI completa, música de menú voces.
 **Herramientas:**
 `[Affinity]` · `[Blender]` · 
 
-### Preview
+### Imagen
 
 <!-- Cuando tengas una imagen, reemplazá la siguiente línea -->
 
