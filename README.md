@@ -195,8 +195,7 @@ Si querés conocer más sobre mis trabajos, proyectos o colaborar conmigo, podé
 
 ### 📧 Email
 
-[Gmai](eliasmonti908@gmail.com)
-**eliasmonti908@gmail.com**
+[Gmai](**eliasmonti908@gmail.com**)
 
 ---
 
