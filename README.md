@@ -136,9 +136,8 @@ También trabajo en la creación y experimentación de música para proyectos di
 
 ### 🎧 Mis trabajos
 
-* 🎵 **Tema 01** — [Escuchar/]()
-* 🎵 **Tema 02** — [Escuchar/]()
-* 🎵 **Tema 03** — [Escuchar/]()
+* 🎵 **Tema 01** — [Escuchar/](MenuMaid.wav)
+* 🎵 **Tema 02** — [Escuchar/](sonidos_Facha-002.wav)
 
 > Los enlaces serán reemplazados por mis proyectos y trabajos musicales.
 
