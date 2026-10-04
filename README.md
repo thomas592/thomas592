@@ -52,7 +52,7 @@ Mi objetivo principal es combinar arte, diseño, música y tecnología para crea
 
 ## Planned Obsolescense
 
-![Proyecto 01](https://justtunguska.itch.io/planned-obsolescense)
+[Mi LinkedIn]([https://www.linkedin.com/in/thomas-elias-monti-a56a89401/?isSelfProfile=true](https://justtunguska.itch.io/planned-obsolescense))
 
 **Área:** UI / Arte / Videojuegos
 
@@ -71,7 +71,7 @@ texturizado de modelos, UI completa, música de menú voces.
 
 <!-- Cuando tengas una imagen, reemplazá la siguiente línea -->
 
-![Proyecto 01](<img width="1920" height="1080" alt="Portada_chef_juakin" src="https://github.com/user-attachments/assets/df2dcf12-a080-4f17-8056-80c1b2bd79d3" />)
+<img width="1920" height="1080" alt="Portada_chef_juakin" src="https://github.com/user-attachments/assets/df2dcf12-a080-4f17-8056-80c1b2bd79d3" />
 
 ---
 
