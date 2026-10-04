@@ -195,8 +195,7 @@ Si querés conocer más sobre mis trabajos, proyectos o colaborar conmigo, podé
 
 ### 📧 Email
 
-[Gmail:](eliasmonti908@gmail.com)
-**eliasmonti908@gmail.com**
+[![Gmail](https://shields.io)](meliasmonti908@gmail.com)
 
 ---
 
