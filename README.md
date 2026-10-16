@@ -199,7 +199,7 @@ Si querés conocer más sobre mis trabajos, proyectos o colaborar conmigo, podé
 
 ---
 
-# 🌹 BLACK ROSE
+# Black Higanbana
 
 **GAME DEVELOPMENT · UI · 2D ART · 3D TEXTURING · MUSIC**
 
