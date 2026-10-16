@@ -1,4 +1,4 @@
-# 🌹 BLACK ROSE
+# Black Higanbana
 
 ### THOMÁS ELÍAS MONTI
 
@@ -8,7 +8,7 @@
 
 ## 👋 Sobre mí
 
-Hola, soy **Thomás Elías Monti**, conocido artísticamente como **Black Rose**.
+Hola, soy **Thomás Elías Monti**, conocido artísticamente como **Black Higanbana**.
 
 Actualmente me estoy formando como **desarrollador de videojuegos**, explorando diferentes áreas relacionadas con el arte digital y la creación de experiencias interactivas.
 
