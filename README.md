@@ -69,11 +69,11 @@ texturizado de modelos, UI completa, música de menú voces.
 
 ### Imagen
 
-<img width="1920" height="1080" alt="Portada_chef_juakin" src="https://github.com/user-attachments/assets/df2dcf12-a080-4f17-8056-80c1b2bd79d3" />
+<img width="217" height="315" alt="Portada_chef_juakin" src="https://github.com/user-attachments/assets/df2dcf12-a080-4f17-8056-80c1b2bd79d3" />
 
-<img width="1024" height="1024" alt="Brazo_2" src="https://github.com/user-attachments/assets/2589ccda-3e84-44d9-a67b-c363088a3d8d" />
+<img width="217" height="315" alt="Brazo_2" src="https://github.com/user-attachments/assets/2589ccda-3e84-44d9-a67b-c363088a3d8d" />
 
-<img width="1920" height="1080" alt="Menu_001" src="https://github.com/user-attachments/assets/22da966d-237d-415c-ab7b-c79ba08b552b" />
+<img width="217" height="315" alt="Menu_001" src="https://github.com/user-attachments/assets/22da966d-237d-415c-ab7b-c79ba08b552b" />
 
 ---
 
@@ -97,9 +97,9 @@ la idea principal, el arte, la musica y en la parte del bestiario una imagen
 
 ### imagen
 
-<img width="1920" height="1080" alt="oga_3" src="https://github.com/user-attachments/assets/278ee27c-a16f-467c-a1c0-351c3145ad8c" />
+<img width="217" height="315" alt="oga_3" src="https://github.com/user-attachments/assets/278ee27c-a16f-467c-a1c0-351c3145ad8c" />
 
-<img width="164" height="258" alt="Charo" src="https://github.com/user-attachments/assets/4850ad15-6593-4d3f-8da9-4bd3a74a1611" />
+<img width="217" height="315" alt="Charo" src="https://github.com/user-attachments/assets/4850ad15-6593-4d3f-8da9-4bd3a74a1611" />
 
 ---
 
@@ -122,9 +122,9 @@ Dibuje Objetos Para el mapa, a su vez Un poco de animación Que no se logró imp
 
 ###  imagen
 
-<img width="160" height="160" alt="Hielo_Sprite" src="https://github.com/user-attachments/assets/da57017b-a267-4e8f-9988-a4dfa9087401" />
+<img width="217" height="315" alt="Hielo_Sprite" src="https://github.com/user-attachments/assets/da57017b-a267-4e8f-9988-a4dfa9087401" />
 
-<img width="160" height="160" alt="Vapor_Sprite" src="https://github.com/user-attachments/assets/21e4c68e-bea1-4442-81f3-68606bc31c54" />
+<img width="217" height="315" alt="Vapor_Sprite" src="https://github.com/user-attachments/assets/21e4c68e-bea1-4442-81f3-68606bc31c54" />
 
 ---
 
