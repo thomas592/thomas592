@@ -69,9 +69,9 @@ texturizado de modelos, UI completa, música de menú voces.
 
 ### Imagen
 
-<img width="217" height="31" alt="Portada_chef_juakin" src="https://github.com/user-attachments/assets/df2dcf12-a080-4f17-8056-80c1b2bd79d3" />
+<img width="217" height="315" alt="Portada_chef_juakin" src="https://github.com/user-attachments/assets/df2dcf12-a080-4f17-8056-80c1b2bd79d3" />
 
-<img width="217" height="31" alt="Brazo_2" src="https://github.com/user-attachments/assets/2589ccda-3e84-44d9-a67b-c363088a3d8d" />
+<img width="217" height="315" alt="Brazo_2" src="https://github.com/user-attachments/assets/2589ccda-3e84-44d9-a67b-c363088a3d8d" />
 
 ---
 
